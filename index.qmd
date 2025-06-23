@@ -5,7 +5,7 @@ format: html
 
 # 👋 Welcome to the GitHub + R Lab Tutorial
 
-Each student will:
+Everyone will:
 
 1. Clone this repo
 2. Create a new branch
@@ -13,10 +13,10 @@ Each student will:
 4. Commit and push their changes
 5. Open a pull request (or push to `main` directly)
 
-When we re-render the website, all student pages will appear in one place!
+When we re-render the website, all pages will appear in one place!
 
 
-## Student Pages
+## Lab Member Pages
 
 ```{r student-links, echo=FALSE, results='asis'}
 files <- list.files("people", pattern = "\\.qmd$", full.names = TRUE)
