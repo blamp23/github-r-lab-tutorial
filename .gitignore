@@ -3,6 +3,6 @@
 .RData
 .Ruserdata
 renv/
-docs/
+#docs/
 _site/
 /.quarto/
