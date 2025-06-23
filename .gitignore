@@ -6,5 +6,6 @@ renv/
 #docs/
 _site/
 /.quarto/
+# Addedx
 .DS_Store
 *.Rproj
