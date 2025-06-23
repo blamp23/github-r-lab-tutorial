@@ -1,0 +1,12 @@
+---
+title: "Example Student Page"
+format: html
+---
+
+# 🙋 Hello from the tutorial
+
+This is a sample page created by a fictional student.
+
+```{r}
+plot(pressure)
+```

@@ -1,0 +1,26 @@
+---
+title: "Welcome"
+format: html
+---
+
+# 👋 Welcome to the GitHub + R Lab Tutorial
+
+Each student will:
+
+1. Clone this repo
+2. Create a new branch
+3. Add a `.qmd` file in the `people/` folder
+4. Commit and push their changes
+5. Open a pull request (or push to `main` directly)
+
+When we re-render the website, all student pages will appear in one place!
+
+
+## Student Pages
+
+```{r}
+files <- list.files("people", pattern = "\\.qmd$", full.names = TRUE)
+names <- tools::file_path_sans_ext(basename(files))
+cat(paste0("- [", names, "](people/", names, ".html)\n"), sep = "")
+```
+
