@@ -1,0 +1,12 @@
+---
+title: "Example Student Page - Lisa"
+format: html
+---
+
+# 🙋 Hello from the tutorial
+
+This is a sample page created by Lisa Karstens, PhD.
+
+```{r}
+plot(pressure)
+```
