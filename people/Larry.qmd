@@ -1,0 +1,12 @@
+---
+title: "Example Student Page"
+format: html
+---
+
+# Hello
+
+My name is Larry, I like to watch Love Island with my girlfreind and eat potatoes. 
+
+```{r}
+plot(iris)
+```
