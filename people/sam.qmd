@@ -1,0 +1,13 @@
+---
+title: "Sam"
+format: html
+---
+
+# 👋 Hello!
+
+This is your page. You can write R code like this:
+
+```{r}
+#iris
+summary(iris)
+```
