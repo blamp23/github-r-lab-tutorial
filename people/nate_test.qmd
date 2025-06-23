@@ -1,0 +1,13 @@
+---
+title: "Example Student Page"
+author: "Nathan Boyer"
+format: html
+---
+
+# 🙋 Hello from the tutorial
+
+This is a sample page edited by Nathan Boyer.
+
+```{r}
+plot(pressure)
+```
